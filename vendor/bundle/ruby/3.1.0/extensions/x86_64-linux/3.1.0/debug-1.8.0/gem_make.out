@@ -1,0 +1,16 @@
+current directory: /home/essohanam/MICROVERSE/Final Capstone/hello-rails-back-end/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+/usr/bin/ruby3.1 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231128-115535-ypq7va.rb extconf.rb
+creating Makefile
+
+current directory: /home/essohanam/MICROVERSE/Final Capstone/hello-rails-back-end/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/essohanam/MICROVERSE/Final Capstone/hello-rails-back-end/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/essohanam/MICROVERSE/Final Capstone/hello-rails-back-end/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231128-115535-k10wu5/debug
