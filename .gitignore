@@ -36,3 +36,13 @@ node_modules
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Fichiers de sauvegarde ou temporaires
+*~
+.*.swp
+.vscode/
+
+# Dossiers de build ou de compilation
+/dist/
+/build/
+*.log
